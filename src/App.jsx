@@ -18,7 +18,7 @@ export default function App() {
 
    return (
       <div className='w-screen h-screen flex'>
-         <div className='lg:basis-3/5 basis-full lg:px-28 lg:py-20 '>
+         <div className='lg:basis-3/5 basis-full lg:px-28 lg:py-20 bg-gradient-to-br from-firstGradientFrom to to-firstGradientTo '>
             <div className='lg:px-0 lg:py-0 py-5 px-2'>
                <img src='logo.svg' alt='logo' className='' />
             </div>
